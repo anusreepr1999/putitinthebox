@@ -1,5 +1,5 @@
-# putitinthebox
-PUT IT IN THE BOX is a user-friendly website designed to extract the necessary information from your
+
+# PUT IT IN THE BOX is a user-friendly website designed to extract the necessary information from your
 Wohngeldabrechnung documents. Whether you're an individual seeking housing benefits or a housing
 authority professional responsible for processing applications, our platform is tailored to meet your needs.
 With our advanced technology and intuitive interface, extracting details from Wohngeldabrechnung has
@@ -16,3 +16,4 @@ provide insights into the Wohngeldabrechnung process, and present a potential so
 relevant details. It is my hope that this exploration contributes to the understanding and improvement of
 housing benefit systems, ultimately benefiting low-income households and ensuring access to adequate
 housing.
+ccc
