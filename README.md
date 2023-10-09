@@ -12,9 +12,8 @@ allows for the creation of interactive and dynamic user interfaces. This paper d
 a course request system built using React, including extracting bank and tax details, displaying them
 along with notifying the respective officers regarding the same.
 
-The objective of this document is to shed light on the significance of housing allowance calculation,
+The objective of this file  is to shed light on the significance of housing allowance calculation,
 provide insights into the Wohngeldabrechnung process, and present a potential solution for extracting
 relevant details. It is my hope that this exploration contributes to the understanding and improvement of
 housing benefit systems, ultimately benefiting low-income households and ensuring access to adequate
 housing.
-ccc
